@@ -3,3 +3,35 @@
 button {
   cursor: pointer;
 }
+
+/* Practice using pseudo-class */
+button:hover{
+    background-color:red;
+}
+
+/*
+set the "graph" div to be a flexbox container to have them display horizontally 
+*/
+#graph{
+  display:          flex    ;
+  /* align-items:      row     ; */
+  flex-direction:   row;
+  flex-wrap:        wrap    ;
+  /* background-color: blue  ; */
+}
+
+/* 
+  Also a flexbox container.
+*/
+.graphbox-item{
+  display: flex;
+  flex-direction: column;
+  background-color: lightgray;
+  margin:.7em;
+  font-size: .5em;
+  padding: 1em;
+}
+
+.bluebox{
+  background-color: blue;
+}
