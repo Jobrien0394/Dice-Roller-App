@@ -28,7 +28,7 @@ set the "graph" div to be a flexbox container to have them display horizontally
   flex-direction: column;
   background-color: lightgray;
   margin:.7em;
-  font-size: .5em;
+  font-size: 1.2em;
   padding: 1em;
 }
 
