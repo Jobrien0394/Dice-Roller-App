@@ -1,5 +1,1 @@
-# Kenzie JS and the DOM Assessment
-
-Complete your work inside of `code.js`
-
-Follow the instructions provided on my.kenzie.academy for this assignment.
+A simple web app that rolls a dice either once or 1000 times.
